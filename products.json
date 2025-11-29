@@ -1,4 +1,4 @@
-[
+   [
   {
     "id": 1,
     "name": "Mustard Elbow Patch Cardigan",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "name": "Charcoal High-Neck Pulpler",
+    "name": "Charcoal High-Neck Pullover",
     "price": 300,
     "category": "Lightweight Woolen Collection",
     "image": "images/1507aaec-51f0-4934-bc60-07104d447a9e.png",
