@@ -1,12 +1,91 @@
-e7b8d6e2-714b-4bd6-b399-fc45cde189ad.png
-2184324b-e313-4399-8e8e-32e22144f63a.png
-1507aaec-51f0-4934-bc60-07104d447a9e.png
-cfb8cf2f-1a40-4b94-8e18-6f1c02d40904.png
-58170b88-3fc2-4765-9da3-35e378a9f76f.png
-7c212547-80e7-4099-9134-4798116a8421.png
-c9853fe6-ec23-48a0-97f2-86fa50a2f21d.png
-d9d1dc17-b9ba-4bf8-bd91-cb0d16f8494b.png
-9b6928ae-9db2-458b-aea0-3dc5653ed27b.png
-792b856b-2f7b-4983-a429-10f4292cd0a6.png
-f7624bed-af7f-4da2-9a5a-b57a3f59436f.png
-.keep
+[
+  {
+    "id": 1,
+    "name": "Mustard Elbow Patch Cardigan",
+    "price": 300,
+    "category": "Lightweight Woolen Collection",
+    "image": "images/e7b8d6e2-714b-4bd6-b399-fc45cde189ad.png",
+    "description": "Soft lightweight cardigan with elbow-patch detailing, perfect for cozy winter days."
+  },
+  {
+    "id": 2,
+    "name": "Maroon Polo Winter Knit",
+    "price": 300,
+    "category": "Lightweight Woolen Collection",
+    "image": "images/2184324b-e313-4399-8e8e-32e22144f63a.png",
+    "description": "Elegant maroon polo-style knit, warm and comfortable for mild winters."
+  },
+  {
+    "id": 3,
+    "name": "Charcoal High-Neck Pullover",
+    "price": 300,
+    "category": "Lightweight Woolen Collection",
+    "image": "images/1507aaec-51f0-4934-bc60-07104d447a9e.png",
+    "description": "Minimal high-neck sweater that offers warmth without heaviness."
+  },
+  {
+    "id": 4,
+    "name": "Beige Striped Button Knit",
+    "price": 300,
+    "category": "Lightweight Woolen Collection",
+    "image": "images/cfb8cf2f-1a40-4b94-8e18-6f1c02d40904.png",
+    "description": "Beautiful beige striped knit with soft winter texture, ideal for all-day wear."
+  },
+  {
+    "id": 5,
+    "name": "Navy Ruffled Sleeve Sweater",
+    "price": 300,
+    "category": "Lightweight Woolen Collection",
+    "image": "images/58170b88-3fc2-4765-9da3-35e378a9f76f.png",
+    "description": "Trendy ruffle-sleeve winter top, lightweight yet warm."
+  },
+  {
+    "id": 6,
+    "name": "Purple Striped Collar Knit",
+    "price": 300,
+    "category": "Lightweight Woolen Collection",
+    "image": "images/7c212547-80e7-4099-9134-4798116a8421.png",
+    "description": "Premium striped collared sweater with a soft, breathable winter knit."
+  },
+  {
+    "id": 7,
+    "name": "Navy Floral Winter Knit",
+    "price": 300,
+    "category": "Lightweight Woolen Collection",
+    "image": "images/c9853fe6-ec23-48a0-97f2-86fa50a2f21d.png",
+    "description": "Elegant winter top with floral applique pattern, perfect for casual outings."
+  },
+  {
+    "id": 8,
+    "name": "Burnt Orange Ribbed Collar Knit",
+    "price": 300,
+    "category": "Lightweight Woolen Collection",
+    "image": "images/d9d1dc17-b9ba-4bf8-bd91-cb0d16f8494b.png",
+    "description": "Attractive burnt orange knit with patterned collar, designed for winter comfort."
+  },
+  {
+    "id": 9,
+    "name": "Orange Multi-Stripe Turtleneck",
+    "price": 300,
+    "category": "Lightweight Woolen Collection",
+    "image": "images/9b6928ae-9db2-458b-aea0-3dc5653ed27b.png",
+    "description": "Cozy turtleneck featuring bold multi-colored stripes for a warm winter look."
+  },
+  {
+    "id": 10,
+    "name": "Lemon Ribbed Polo Winter Top",
+    "price": 300,
+    "category": "Lightweight Woolen Collection",
+    "image": "images/792b856b-2f7b-4983-a429-10f4292cd0a6.png",
+    "description": "Soft lemon-shade winter polo knit, ideal for smart casual wear."
+  },
+  {
+    "id": 11,
+    "name": "Mint Textured Collar Sweater",
+    "price": 300,
+    "category": "Lightweight Woolen Collection",
+    "image": "images/f7624bed-af7f-4da2-9a5a-b57a3f59436f.png",
+    "description": "Lightweight mint-green lace-texture sweater with a soft collar."
+  }
+]
+
